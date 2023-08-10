@@ -5,12 +5,14 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    background-color: #0beed7;
 }
 
 /*header*/
 header {
     text-align: center;
-    color: #f2f2f2;
+    color: #18350d;
+    background-color: #0beed7;
     padding: 20px 0;
 }
 
@@ -19,7 +21,7 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
-    background-color: #333333;
+    background-color: #18350d;
     padding: 10px 0;
 }
 
@@ -27,14 +29,14 @@ nav li {
     margin: 0 15px;
 }
 
-nav a {
+nav {
     text-decoration: none;
-    color: white;
+    color: #0beed7;
 }
 
 /* project */
 .project { 
-    border: 1px solid #ddd;
+    border: 1px solid #0beed7;
     padding: 20px;
     margin: 20px 0;
 }
@@ -42,7 +44,7 @@ nav a {
 /* footer */
 .footer {
     text-align: center;
-    background-color: #333333;
-    color: white;
+    background-color: #18350d;
+    color: #0beed7;
     padding: 10px 0;
 }
