@@ -29,9 +29,14 @@ nav li {
     margin: 0 15px;
 }
 
-nav {
+nav a {
     text-decoration: none;
     color: #0beed7;
+}
+
+.container {
+    display: grid;
+    grid-template: 1fr / 1fr 1fr;
 }
 
 /* project */
