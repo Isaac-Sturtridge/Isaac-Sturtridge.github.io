@@ -34,11 +34,6 @@ nav a {
     color: #0beed7;
 }
 
-.container {
-    display: grid;
-    grid-template: 1fr / 1fr 1fr;
-}
-
 /* project */
 .project { 
     border: 1px solid #0beed7;
