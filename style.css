@@ -12,6 +12,10 @@ body {
     margin: 0;
 }
 
+main {
+    flex: 1;
+}
+
 /*header*/
 header {
     text-align: center;
@@ -51,5 +55,6 @@ nav a {
     background-color: #18350d;
     color: #0beed7;
     padding: 10px 0;
+    flex-shrink: 0;
     margin-top: auto;
 }
