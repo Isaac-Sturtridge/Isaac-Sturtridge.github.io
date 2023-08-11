@@ -12,10 +12,6 @@ body {
     margin: 0;
 }
 
-main {
-    flex: 1;
-}
-
 /*header*/
 header {
     text-align: center;
@@ -40,6 +36,10 @@ nav li {
 nav a {
     text-decoration: none;
     color: #0beed7;
+}
+
+.section {
+    flex: 1;
 }
 
 /* project */
