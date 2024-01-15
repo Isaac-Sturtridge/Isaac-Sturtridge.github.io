@@ -16,7 +16,7 @@ body {
 header {
     text-align: center;
     color: #18350d;
-    background-color: #0beed7;
+    background-color: #d8e7ff;
     padding: 20px 0;
 }
 
@@ -46,7 +46,8 @@ nav a {
 
 /* project */
 .project { 
-    border: 1px solid #0beed7;
+    border: 0.2rem solid black;
+    border-radius: 20%;
     padding: 20px;
     margin: 20px 0;
 }
