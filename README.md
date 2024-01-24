@@ -1,5 +1,5 @@
 # Isaac-Sturtridge.github.io
-My site
+My site. To access the site, go here: https://isaac-sturtridge.github.io/
 
 - 👋 Hi, I’m Isaac Sturtridge
 - 👀 I’m interested in showing my development skills
